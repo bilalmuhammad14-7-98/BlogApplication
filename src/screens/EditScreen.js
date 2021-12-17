@@ -5,7 +5,7 @@ const EditScreen = ({ navigation }) => {
   const id = navigation.getParam("id");
   return (
     <View>
-      <Text>Welcome to Edit Screen {id}</Text>
+      <Text>Welcome to Pakistan {id}</Text>
     </View>
   );
 };

@@ -16,7 +16,7 @@ const CreateScreen = ({ navigation }) => {
           setTitle(text);
         }}
       />
-      <Text style={styles.label}>Enter Content</Text>
+      <Text style={styles.label}>Enter Content t</Text>
       <TextInput
         style={styles.input}
         value={content}
