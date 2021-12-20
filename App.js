@@ -19,7 +19,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Index",
     defaultNavigationOptions: {
-      title: "Blog Application",
+      title: "Blog Application For",
     },
   }
 );
